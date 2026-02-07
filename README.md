@@ -38,8 +38,13 @@ I am a **Computer Science undergraduate** at **Graphic Era Hill University** spe
 
 ### 📊 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammayankbhatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammayankbhatt&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iammayankbhatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iammayankbhatt&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammayankbhatt&theme=tokyonight" alt="Mayank's Streak" />
 </p>
 
 ---
