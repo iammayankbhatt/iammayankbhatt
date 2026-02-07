@@ -35,7 +35,7 @@ I am a **Computer Science undergraduate** at **Graphic Era Hill University** spe
 
 ---
 
-### 📈 Coding Proficiency & Stats
+### 📈 Coding Proficiency
 
 <p align="center">
   <a href="https://leetcode.com/u/mayankbhatt_13/">
@@ -43,10 +43,6 @@ I am a **Computer Science undergraduate** at **Graphic Era Hill University** spe
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iammayankbhatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iammayankbhatt&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
